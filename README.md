@@ -14,7 +14,7 @@
 |    └── com
 |        |── filter
 |        |   └── Filter0_CrossOriginResource.java (跨域过滤器)
-|		 |	 └── Filter1_CheckToken.java	(token校验过滤器)
+|			 └── Filter1_CheckToken.java	(token校验过滤器)
 |        ├── jwt
 |        │   └── Jwt.java
 |        │   └── JwtTestCase.java （测试用例）
